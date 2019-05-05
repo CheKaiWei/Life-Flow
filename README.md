@@ -2,4 +2,4 @@
 Life flow of my life
 
 ## Result:
-![Life Flow](Life_flow.PNG)
+![Life Flow](Life_flow.png)
